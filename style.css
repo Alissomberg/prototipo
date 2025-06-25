@@ -2,7 +2,7 @@
 .retangulo {
     position: absolute;
     width: 100%;
-    height: 100px;
+    height: 15%;
     top: 0px;
     left: 0%;
     background-color: #112548;
@@ -10,15 +10,16 @@
     z-index: 0; 
 }
 img {
-    width: 190px;
-    top:0px;
-    position:absolute;
+    width: 12%;
+    top:1%;
+    left:5%;
+    position:fixed;
     z-index: 1;
 }
 .title{
     position: absolute;
     color: white;
-    font-size: 30px;
-    top: 30px;
-    right:1550px;
+    font-size: 180%;
+    top: 5%;
+    left:15%;
     }
